@@ -13,7 +13,7 @@ The Flashcard Generator is an AI-powered application that allows users to genera
 - **[Tiantian Huang]** - huangtiantian0430@gmail.com
 
 
-## Backend and Frontend Link
+## Backend and Frontend Links
 
 - Backend: https://github.com/takkujunjieli/flashcard-backend main branch
 - Frontend: https://github.com/mereluo/flashcard-generator main branch
