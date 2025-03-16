@@ -30,7 +30,6 @@ Ensure you have the following dependencies installed:
 Python 3.8+
 Node.js (>= 14.0.0)
 npm (>= 6.0.0)
-
 ```
 
 ## Backend Installation
@@ -62,10 +61,8 @@ python -m nltk.downloader punkt
 python -m spacy download en_core_web_sm
 ```
 
-
 Start the FastAPI server:
 ```
-
 uvicorn main:app --reload
 ```
 
