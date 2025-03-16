@@ -22,6 +22,8 @@ The Flashcard Generator is an AI-powered application that allows users to genera
 
 ## Setup Instructions
 
+Contact us if you have any questions about the setup
+
 Prerequisites
 
 Ensure you have the following dependencies installed:
@@ -80,7 +82,6 @@ cd flashcard-generator
 Install dependencies:
 
 ```
-
 npm install
 ```
 
