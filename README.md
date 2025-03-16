@@ -1,5 +1,7 @@
 # Flashcard Generator
 
+![UI Preview](ui.png)
+
 ## Description
 
 The Flashcard Generator is an AI-powered application that allows users to generate flashcards from uploaded PDF files. The app processes structured text, extracts keywords and entities, and generates relevant question-answer pairs to aid learning. This project is designed to run locally without cloud dependency and is integrated with Qualcomm technologies for optimized on-device inference.
